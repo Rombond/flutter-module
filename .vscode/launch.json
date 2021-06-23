@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Perso",
+            "preLaunchTask": "Perso",
+            "request": "attach",
+            "type": "dart",
+        },
+        {
+            "name": "Flutter-All",
+            "preLaunchTask": "Flutter-Launch-All",
+            "request": "attach",
+            "type": "dart",
+        },
+        {
+            "name": "Flutter-iOS",
+            "preLaunchTask": "Flutter-Launch-iOS",
+            "request": "attach",
+            "type": "dart",
+        },
+        {
+            "name": "Flutter-Android",
+            "preLaunchTask": "Flutter-Launch-Android",
+            "request": "attach",
+            "type": "dart",
+        },
+        {
+            "name": "Flutter-Web",
+            "preLaunchTask": "Flutter-Launch-Web",
+            "request": "attach",
+            "type": "dart",
+        }
+    ],
+}
